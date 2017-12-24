@@ -1,0 +1,32 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "Pavan Solanke",
+      "english": 56,
+      "math": 43,
+      "hindi": 75
+    },
+    {
+      "name": "swarup solanke",
+      "english": 34,
+      "math": 56,
+      "hindi": 88,
+      "id": 2
+    },
+    {
+      "name": "Sadhana Solanke",
+      "english": 55,
+      "math": 98,
+      "hindi": 97,
+      "id": 3
+    },
+    {
+      "name": "temp",
+      "english": 45,
+      "math": 45,
+      "hindi": 45,
+      "id": 4
+    }
+  ]
+}
